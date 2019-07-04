@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/main.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c1804e5-2577-46f6-9628-f1faeed713a6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="151" column="48" lean-forward="true" selection-start-line="151" selection-start-column="48" selection-end-line="151" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Point#0" />
+                <element signature="method#SetPoint#0;class#Point#0" />
+                <element signature="class#PointOperations#0" />
+                <element signature="method#RotatePoint#0;class#PointOperations#0" />
+                <element signature="method#MovePointByVector#0;class#PointOperations#0" />
+                <element signature="class#Vector#0" />
+                <element signature="class#Triangle#0" />
+                <element signature="method#Triangle#0;class#Triangle#0" />
+                <element signature="method#Triangle#1;class#Triangle#0" />
+                <element signature="method#FindPerimeter#0;class#Triangle#0" />
+                <element signature="method#FindArea#0;class#Triangle#0" />
+                <element signature="class#TrianglePrintOperator#0" />
+                <element signature="method#PrintPerimeter#0;class#TrianglePrintOperator#0" />
+                <element signature="method#PrintCoords#0;class#TrianglePrintOperator#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/VectorsOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#SumOfVectors#0;class#VectorsOperations#0" />
+                <element signature="method#DifOfVectors#0;class#VectorsOperations#0" />
+                <element signature="method#MultiplyByR#0;class#VectorsOperations#0" />
+                <element signature="method#Normal#0;class#VectorsOperations#0" />
+                <element signature="method#ScalarMultiply#0;class#VectorsOperations#0" />
+                <element signature="method#CosinOfAngle#0;class#VectorsOperations#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TriangleOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="method#RotateTriangle#0;class#TriangleOperations#0" />
+                <element signature="method#ChangeTrianglePoint#0;class#TriangleOperations#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/HelloApplet.html" />
+        <option value="$PROJECT_DIR$/src/com/company/HelloApplet.java" />
+        <option value="$PROJECT_DIR$/src/com/company/main,java" />
+        <option value="$PROJECT_DIR$/src/com/company/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/VectorsOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TriangleOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/company/main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1015" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559262313980" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="HelloApplet" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.HelloApplet" />
+      <module name="Sandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Sandbox" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.main" />
+      <module name="Sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplet.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Sandbox/com/company/HelloApplet.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Applet.HelloApplet" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JavaScript Debug.HelloApplet.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Applet.HelloApplet" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c1804e5-2577-46f6-9628-f1faeed713a6" name="Default Changelist" comment="" />
+      <created>1552742803817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552742803817</updated>
+      <workItem from="1552742808671" duration="21438000" />
+      <workItem from="1553028359894" duration="598000" />
+      <workItem from="1553109251821" duration="305000" />
+      <workItem from="1553246418414" duration="13378000" />
+      <workItem from="1553451330524" duration="79000" />
+      <workItem from="1553522970354" duration="7239000" />
+      <workItem from="1553537707316" duration="15000" />
+      <workItem from="1553537765936" duration="36000" />
+      <workItem from="1553537884266" duration="20000" />
+      <workItem from="1553542772724" duration="981000" />
+      <workItem from="1553609467826" duration="1131000" />
+      <workItem from="1554283904495" duration="735000" />
+      <workItem from="1554462908850" duration="446000" />
+      <workItem from="1559257062164" duration="5438000" />
+      <workItem from="1560271126220" duration="730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52569000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.020134227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9575071" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30736545" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1960" column="16" selection-start-line="1960" selection-start-column="16" selection-end-line="1960" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HelloApplet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/main,java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/HelloApplet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Triangle.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="863" selection-start-line="863" selection-end-line="863" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Изучаем Java!/main" />
+    <entry file="file://$PROJECT_DIR$/../Программирование на джаве/Калькулятор на GUI/src/com/company/Reader.java" />
+    <entry file="file://$PROJECT_DIR$/../Программирование на джаве/Калькулятор на GUI/src/com/company/WindowFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../Программирование на джаве/Калькулятор на GUI/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="151" column="48" lean-forward="true" selection-start-line="151" selection-start-column="48" selection-end-line="151" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Point#0" />
+            <element signature="method#SetPoint#0;class#Point#0" />
+            <element signature="class#PointOperations#0" />
+            <element signature="method#RotatePoint#0;class#PointOperations#0" />
+            <element signature="method#MovePointByVector#0;class#PointOperations#0" />
+            <element signature="class#Vector#0" />
+            <element signature="class#Triangle#0" />
+            <element signature="method#Triangle#0;class#Triangle#0" />
+            <element signature="method#Triangle#1;class#Triangle#0" />
+            <element signature="method#FindPerimeter#0;class#Triangle#0" />
+            <element signature="method#FindArea#0;class#Triangle#0" />
+            <element signature="class#TrianglePrintOperator#0" />
+            <element signature="method#PrintPerimeter#0;class#TrianglePrintOperator#0" />
+            <element signature="method#PrintCoords#0;class#TrianglePrintOperator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/VectorsOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SumOfVectors#0;class#VectorsOperations#0" />
+            <element signature="method#DifOfVectors#0;class#VectorsOperations#0" />
+            <element signature="method#MultiplyByR#0;class#VectorsOperations#0" />
+            <element signature="method#Normal#0;class#VectorsOperations#0" />
+            <element signature="method#ScalarMultiply#0;class#VectorsOperations#0" />
+            <element signature="method#CosinOfAngle#0;class#VectorsOperations#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TriangleOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="method#RotateTriangle#0;class#TriangleOperations#0" />
+            <element signature="method#ChangeTrianglePoint#0;class#TriangleOperations#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
